@@ -1,5 +1,5 @@
 The repository contains solutions and examples for the exercises from the book described below.\
-If you want to run the project locally, it can be done easily because it was developed on Docker.
+If you want to run the project locally, it can be done easily because it was developed on Dockr.
 
 ## Java - A Beginner's Guide
 #### Seventh Edition
